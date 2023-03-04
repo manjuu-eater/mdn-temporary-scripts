@@ -1,2 +1,2 @@
 # mdn-temporary-scripts
-Temporary scripts used for edit mdn/contents or mdn/translated-contents
+Temporary scripts used for editing mdn/contents or mdn/translated-contents
