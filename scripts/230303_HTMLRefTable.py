@@ -2,6 +2,7 @@
 # https://github.com/mdn/translated-content/pull/11993
 # の Issue を出したときに使った使い捨てスクリプト
 # 可読性はゼロ
+# ポイするのはなんかもったいないけど保存しとくほどでもないので適当に保管しとくだけのやつ
 
 # %%
 import requests
